@@ -16,6 +16,8 @@ HTML, CSS: For structuring and styling the pages.
 
 JavaScript: To implement interactive features.
 
+Bootstrap: Used for rapid and responsive UI development.
+
 Responsive Design: The platform is optimized for seamless viewing on all devices.
 
 🚀 Installation and Usage
